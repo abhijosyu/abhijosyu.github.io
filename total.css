@@ -20,6 +20,10 @@ nav a {
   color: white;
 }
 
+h3 {
+  background: #6ad1eb;
+}
+
 nav a.active {
   color: grey;
 }
