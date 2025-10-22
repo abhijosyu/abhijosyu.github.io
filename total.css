@@ -8,9 +8,11 @@ img {
 }
 
 p {
-  color: blue;
+  color: black;
 }
 
 nav {
+  background: blue;
+  
   
 }
