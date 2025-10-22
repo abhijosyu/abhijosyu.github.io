@@ -26,4 +26,10 @@ nav a {
 
 .genre {
   display: flex;
+  padding: 5px;
+}
+
+.genre img {
+  height: 300px;
+  width: 300px;
 }
