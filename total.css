@@ -20,6 +20,10 @@ nav a {
   color: white;
 }
 
+nav a.active {
+  color: grey;
+}
+
 .info {
   display: flex;
 }
